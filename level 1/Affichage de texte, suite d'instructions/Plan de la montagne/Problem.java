@@ -1,10 +1,8 @@
-package FranceIOI;
-
 /**
  *
- * @author thomas
+ * @author thomas (lamford sur France-IOI)
  */
-public class Problem {
+public class Main {
 
     /**
      * Écrivez un programme permettant d'afficher précisément le texte : 
