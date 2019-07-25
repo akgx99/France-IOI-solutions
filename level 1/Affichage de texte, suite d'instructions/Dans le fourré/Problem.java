@@ -1,10 +1,9 @@
-package FranceIOI;
 import static algorea.Robot.*;
 /**
  *
  * @author thomas (lamford sur France-IOI)
  */
-public class Problem {
+public class Main{
     /**
      * 
      */
