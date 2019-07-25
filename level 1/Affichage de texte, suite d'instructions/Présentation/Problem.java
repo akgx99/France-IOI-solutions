@@ -1,9 +1,8 @@
-package FranceIOI;
 /**
  *
  * @author thomas (lamford sur France-IOI)
  */
-public class Problem {
+public class Main {
     /**
      * 
      */
